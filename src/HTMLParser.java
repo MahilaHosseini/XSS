@@ -11,6 +11,7 @@ public class HTMLParser {
     public final static void main(String[] args) throws Exception{
 
         String site = args[0];
+        //System.out.println();
         List<String> links = extractLinks(site);
         for (String link : links) {
             System.out.println(link);
