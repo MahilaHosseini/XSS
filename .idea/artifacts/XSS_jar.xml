@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="XSS:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/XSS_jar</output-path>
+    <root id="archive" name="XSS.jar">
+      <element id="module-output" name="XSS" />
+    </root>
+  </artifact>
+</component>
